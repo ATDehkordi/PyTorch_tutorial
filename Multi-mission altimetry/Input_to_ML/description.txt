@@ -1,0 +1,7 @@
+Name of files:
+
+location_alt_location_env_ndays
+
+location_alt: says altimetry of which location have been used
+location_env: says env variables of which location (specific for the location or for the whole basins) has been used
+ndays is the length of timeseries for env variables
